@@ -7,12 +7,12 @@
 </head>
 <body>
     <?php
-
-        function add($a,$b) {
-            return a+b;
-        }   
-        $c = add(5,4);
-        echo $c;
+        function nhan2So(&$a,&$b){
+            return $a*$b;
+        }
+        
+        $kq = nhan2So(10,5);
+        echo "$kq";
     ?>
     <?php 
         phpinfo();
