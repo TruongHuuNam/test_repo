@@ -14,8 +14,5 @@
         echo "hehehehehehehe"
         
     ?>  
-    <div>
-        <input type="button" value="Submit">
-    </div>
 </body>
 </html>
