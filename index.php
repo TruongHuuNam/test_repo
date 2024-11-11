@@ -6,6 +6,13 @@
     <title>Test Git</title>
 </head>
 <body>
+    <?php
+        function add($a,$b){
+            return $a+$b;
+        }
+        $c = add(4,5);
+        echo $c;
+    ?>
     <?php 
         phpinfo();
         $a = array("SV1" => "HuuNam","SV2" => "AnhTuan");
