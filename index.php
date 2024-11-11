@@ -12,6 +12,10 @@
         print_r($a);
         echo "12345"
         echo "hehehehehehehe"
+        
     ?>  
+    <div>
+        <input type="button" value="Submit">
+    </div>
 </body>
 </html>
