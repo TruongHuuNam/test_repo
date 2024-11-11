@@ -21,12 +21,15 @@
         echo "hehehehehehehe"
         
     ?>  
+<<<<<<<<< Temporary merge branch 1
     <div>
         <input type="button" value="Submit">
     </div>
+=========
 
     <table>
         <tr><td>Trinh Anh Tuan</td><td>Truong Huu Nam</td></tr>
     </table>
+>>>>>>>>> Temporary merge branch 2
 </body>
 </html>
