@@ -7,20 +7,17 @@
 </head>
 <body>
     <?php
-<<<<<<< HEAD
         function add($a,$b){
             return $a+$b;
         }
         $c = add(4,5);
         echo $c;
-=======
         function nhan2So(&$a,&$b){
             return $a*$b;
         }
         
         $kq = nhan2So(10,5);
         echo "$kq";
->>>>>>> 6c54baf (Them ham nhan 2 so)
     ?>
     <?php 
         phpinfo();
