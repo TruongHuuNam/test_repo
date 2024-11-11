@@ -7,11 +7,18 @@
 </head>
 <body>
     <?php
+<<<<<<< HEAD
 
         function add($a,$b) {
             return a+b;
         }   
         $c = add(5,4);
+=======
+        function add($a,$b){
+            return $a+$b;
+        }
+        $c = add(4,5);
+>>>>>>> 78cddf5 (create function add)
         echo $c;
     ?>
     <?php 
