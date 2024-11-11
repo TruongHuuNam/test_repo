@@ -10,6 +10,8 @@
         phpinfo();
         $a = array("SV1" => "HuuNam","SV2" => "AnhTuan");
         print_r($a);
+        echo "12345"
+        
     ?>  
 </body>
 </html>
