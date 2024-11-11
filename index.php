@@ -13,5 +13,9 @@
         echo "12345"
         echo "hehehehehehehe"
     ?>  
+
+    <table>
+        <tr><td>Trinh Anh Tuan</td><td>Truong Huu Nam</td></tr>
+    </table>
 </body>
 </html>
