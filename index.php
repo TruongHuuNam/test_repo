@@ -34,5 +34,11 @@
     <table>
         <tr><td>Trinh Anh Tuan</td><td>Truong Huu Nam</td></tr>
     </table>
+
+    <script>
+        alert("Hello World!");
+        console.log("Hello World!");
+    </script>
+</html>
 </body>
 </html>
